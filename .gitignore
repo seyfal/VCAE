@@ -3,6 +3,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,c,c++,emacs,linux,python,vim,visualstudio,windows,xcode
 
 *.pth
+*.dm4
+*.dm3 
 
 ### C ###
 # Prerequisites
