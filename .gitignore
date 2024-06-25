@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,c,c++,emacs,linux,python,vim,visualstudio,windows,xcode
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,c,c++,emacs,linux,python,vim,visualstudio,windows,xcode
 
+*.pth
+
 ### C ###
 # Prerequisites
 *.d
