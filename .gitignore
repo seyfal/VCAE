@@ -5,6 +5,8 @@
 *.pth
 *.dm4
 *.dm3 
+*hyperparameter_tuning_v1 
+*images
 
 ### C ###
 # Prerequisites
